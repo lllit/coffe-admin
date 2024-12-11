@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta aplicación administrativa para cafeterías está diseñada para facilitar la gestión diaria de tu negocio, mejorando la eficiencia y la organización. Con una interfaz intuitiva y herramientas integradas, esta aplicación permite a los administradores y empleados manejar pedidos, inventarios, reportes financieros y más.
+Esta aplicación administrativa para cafeterías está diseñada para facilitar la gestión diaria de tu negocio, mejorando la eficiencia y la organización.
 
 
 
